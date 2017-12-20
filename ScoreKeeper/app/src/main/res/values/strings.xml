@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="team1_name">Lions Team</string>
+    <string name="team1_btntext">Team1 ++</string>
+    <string name="team2_btntext">Team2 ++</string>
+    <string name="team2_name">Falcons Team</string>
+    <string name="resetbtn">reset</string>
+    <string name="team2_score">0</string>
+    <string name="team1_score">0</string>
+    <string name="team2_add1btn">+1</string>
+    <string name="team2_add2btn">+2</string>
+    <string name="team2_add3btn">+3</string>
+    <string name="team1_add1btn">+1</string>
+    <string name="team1_add2btn">+2</string>
+    <string name="team1_add3btn">+3</string>
+</resources>
