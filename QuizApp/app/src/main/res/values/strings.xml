@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="welcom_txt">Welcome to Android quiz ^_^</string>
+    <string name="start_btn">START</string>
+    <string name="title_activity_quiz">QuizActivity</string>
+    <string name="intro_txt">Please fill the following questions and then click on sumbit button</string>
+    <string name="q2_txt">Q2. What is  the file that\'s provide essential information about app to the Android system</string>
+    <string name="q2_placeholder">type the file name here</string>
+    <string name="q1_txt">Q1. Android OS is developed by Google Inc.</string>
+    <string name="q1_option1">True</string>
+    <string name="q1_option2">False</string>
+    <string name="q1_option3">HP</string>
+    <string name="q1_option4">SAMSUNG</string>
+    <string name="q3_txt">Q3. How to kill an activity in Android?</string>
+    <string name="q3_option1">finish()</string>
+    <string name="q3_option2">finishActivity(int requestCode)</string>
+    <string name="q3_option3">kill()</string>
+    <string name="q3_option4">None of the Above</string>
+    <string name="q4_txt">Q4. On which thread services work in android?</string>
+    <string name="q4_option1">Worker Thread</string>
+    <string name="q4_option2">Own Thread</string>
+    <string name="q4_option3">Main Thread</string>
+    <string name="q4_option4">None of the above.</string>
+    <string name="q3_hint">please select all the correct answers.</string>
+    <string name="snackbarMessage"> , Your score is : </string>
+    <string name="errorMsg">Please answer all questions</string>
+    <string name="fullmark_response">Wow !! , You gotta a fullmark</string>
+    <string name="good_response">Well , You are good, keep going</string>
+    <string name="bad_response">You need to make more effort, try again</string>
+</resources>
