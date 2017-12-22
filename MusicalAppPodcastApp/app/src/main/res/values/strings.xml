@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Podcasts</string>
+    <string name="categories">Categories</string>
+    <string name="search">Search</string>
+    <string name="my_podcast">Podcasts</string>
+    <string name="stations">Stations</string>
+</resources>
