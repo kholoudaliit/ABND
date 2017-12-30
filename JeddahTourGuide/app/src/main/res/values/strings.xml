@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Jeddah Tour Guide</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="City_name">Jeddah City</string>
+    <string name="city_info">Makkah Province, Saudi Arabia</string>
+    <string name="landmarks">Landmarks</string>
+    <string name="shopping">Shopping</string>
+    <string name="parks">Parks</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="jeddah_attraction">Jeddah Attraction</string>
+    <string name="nasif_house_name">Biet Nassif</string>
+    <string name="nasif_house_description">See a 700-year-old flag mast and a 15th-century cannon at this restored building</string>
+    <string name="albald_description">Reminiscent of the Arabian nights fairytales, this vibrant marketplace with multi-storied mud brick and stone buildings</string>
+    <string name="cornich_desc">The Jeddah Corniche is the 30 km coastal resort area of the city of Jeddah. Located along the Red Sea</string>
+    <string name="fountin_desc">This 853-foot fountain is reputed to be the tallest fountain in the world, and is best appreciated when illuminated at night.</string>
+    <string name="albald_name">Albald</string>
+    <string name="cornish">Jeddah Cornish</string>
+    <string name="fountin">King\'s Fountain</string>
+    <string name="redseamall">Red Sea Mall</string>
+    <string name="redsea_description">#1 Shopping in Jeddah</string>
+    <string name="arabmall">Arab Mall</string>
+    <string name="arabmall_desc">#2 Shopping in Jeddah</string>
+    <string name="gabel_souq">Gabel Street Souq</string>
+    <string name="gabel_description">#3 Shopping in Jeddah</string>
+    <string name="park1">Fakieh Aquarium</string>
+    <string name="park1_desc">Aquarium with species from the Red Sea, plus dolphin shows, an auditorium sports club with a pool.</string>
+    <string name="park2">Silver Sands Beach</string>
+    <string name="park2_desc">Private beach</string>
+    <string name="rest1">Byblos</string>
+    <string name="rest1_des">Lebanese</string>
+    <string name="rest2">Albaik</string>
+    <string name="rest2_des">Fast food</string>
+    <string name="rest3">Abu Zaid</string>
+    <string name="rest3_des">Middle Eastern</string>
+
+</resources>
+
