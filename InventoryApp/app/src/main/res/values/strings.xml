@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="quantity">Quantity: </string>
+    <string name="price">Price: </string>
+    <string name="empty_text">There\'s no item in the list,  \n Please Click ( + ) button to add new item \n then fill all required fields </string>
+    <string name="sale">Sale</string>
+    <string name="product_name">Product Name:</string>
+    <string name="enter_product_name">Enter product name</string>
+    <string name="product_quantity">Product Quantity:</string>
+    <string name="enter_product_quantity">Quantity</string>
+    <string name="product_price">Product Price:</string>
+    <string name="enter_product_price">Enter Product Price</string>
+    <string name="enter_supplier_name">Enter supplier name</string>
+    <string name="supplier_name">Supplier Name: </string>
+    <string name="supplier_email">Supplier Email: </string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="delete">Delete</string>
+    <string name="order_by_email">order by email</string>
+    <string name="order_by_number">Order by number</string>
+    <string name="add">+</string>
+    <string name="minus">-</string>
+    <string name="enter_supplier_number">Enter Supplier Number</string>
+    <string name="add_title">Add Product</string>
+    <string name="edit_title">Edit Product</string>
+    <string name="delete_comifrmatio_text">Did you want to deltet this item</string>
+    <string name="not_deleted">this item not deleted</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">submit</string>
+    <string name="supplier_number">Supplier number:</string>
+    <string name="is_empty">please fill all feilds</string>
+    <string name="quantity_updated">This item quantity is updated</string>
+    <string name="no_quantity">Sorry, there\'s no item in stock</string>
+    <string name="defuat_product_quantity">0</string>
+</resources>
