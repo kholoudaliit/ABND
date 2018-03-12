@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="setting_orderby_entries">
+        <item>newest</item>
+        <item>oldest</item>
+    </string-array>
+
+
+</resources>

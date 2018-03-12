@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:inputType="text"
+        android:key="@string/settings_search_Key"
+        android:selectAllOnFocus="true"
+        android:summary="@string/search_summary"
+        android:textSize="14sp"
+        android:title="@string/settings_search_Title" />
+
+    <ListPreference
+        android:defaultValue="@string/setting_orderby_defValue"
+        android:dialogTitle="@string/setting_orderby_title"
+        android:entries="@array/setting_orderby_entries"
+        android:entryValues="@array/setting_orderby_entries"
+        android:key="@string/setting_order_by_key"
+        android:summary="@string/orderby_sumary"
+        android:title="@string/setting_orderby_title" />
+
+</PreferenceScreen>
